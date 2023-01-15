@@ -1,0 +1,2 @@
+# A_JAVASCRIPT-GAME
+a simple game (VERY ORIGINAL IDEA)
